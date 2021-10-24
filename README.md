@@ -53,6 +53,8 @@
   </p>
   <p>
     This week’s application will be Do While 2021
+  </p>
+  <p>
     Do While it's an environment where event participants can share their expectations and experiences acquired during the event..
   </p>
 </div>
